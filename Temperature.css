@@ -61,6 +61,7 @@ button#swap{
 @media screen and (max-width:672px) {
     .inner{
         width:90%;
+        height:50%;
         margin:3% auto;
     }
     input{
