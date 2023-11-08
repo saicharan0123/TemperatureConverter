@@ -58,3 +58,12 @@ button#swap{
     border:none;
     font-weight: bold;
 }
+@media screen and (max-width:672px) {
+    .inner{
+        width:90%;
+        margin:3% auto;
+    }
+    input{
+        width:80%;
+    }
+}
